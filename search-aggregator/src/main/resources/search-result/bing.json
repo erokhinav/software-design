@@ -1,0 +1,25 @@
+{
+  "engineName": "Bing",
+  "urls": [
+    {
+      "title":  "Best title",
+      "url": "https://best-title.com"
+    },
+    {
+      "title":  "One more result",
+      "url": "https://one-more-result.uk"
+    },
+    {
+      "title":  "Site #3",
+      "url": "https://wow.net"
+    },
+    {
+      "title":  "Corona virus",
+      "url": "https://corona-virus.com"
+    },
+    {
+      "title":  "St Petersburg",
+      "url": "https://some.com"
+    }
+  ]
+}

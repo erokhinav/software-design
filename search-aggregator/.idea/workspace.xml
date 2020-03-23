@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e835f9-4e39-4992-9bfe-1135db2443e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7vme4kvRweph1QGeHOAcKHSy9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/search-result" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MasterActorTest (1)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.erokhinav.app.App" />
+      <module name="search-aggregator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhinav.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.erokhinav.App" />
+      <module name="search-aggregator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhinav.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterActorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-aggregator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.MasterActorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterActorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-aggregator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telnov.software_design.akka.actors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina" />
+      <option name="MAIN_CLASS_NAME" value="com.telnov.software_design.akka.actors.MasterActorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterActorTest.testMakeSearchRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-aggregator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telnov.software_design.akka.actors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina" />
+      <option name="MAIN_CLASS_NAME" value="com.telnov.software_design.akka.actors.MasterActorTest" />
+      <option name="METHOD_NAME" value="testMakeSearchRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MasterActorTest (1)" />
+        <item itemvalue="JUnit.MasterActorTest" />
+        <item itemvalue="JUnit.MasterActorTest.testMakeSearchRequest" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e835f9-4e39-4992-9bfe-1135db2443e9" name="Default Changelist" comment="" />
+      <created>1584203106082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584203106082</updated>
+      <workItem from="1584203107529" duration="22611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1584298948758">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1026@0.23.1792.1026" timestamp="1584298948758" />
+    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584308516094">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1584308516094" />
+    <state width="1750" height="244" key="GridCell.Tab.0.bottom" timestamp="1584352943370">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="244" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1584349146135" />
+    <state width="1750" height="244" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1584352943370" />
+    <state width="1750" height="244" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1584348043901" />
+    <state width="1750" height="244" key="GridCell.Tab.0.center" timestamp="1584352943370">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="244" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1584349146134" />
+    <state width="1750" height="244" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1584352943370" />
+    <state width="1750" height="244" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1584348043900" />
+    <state width="1750" height="244" key="GridCell.Tab.0.left" timestamp="1584352943369">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="244" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1584349146133" />
+    <state width="1750" height="244" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1584352943369" />
+    <state width="1750" height="244" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1584348043900" />
+    <state width="1750" height="244" key="GridCell.Tab.0.right" timestamp="1584352943370">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="244" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1584349146134" />
+    <state width="1750" height="244" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1584352943370" />
+    <state width="1750" height="244" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1584348043901" />
+    <state x="397" y="174" key="SettingsEditor" timestamp="1584281823978">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="397" y="174" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1584281823978" />
+    <state x="626" y="274" width="540" height="524" key="StructurePopup" timestamp="1584279445864">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="626" y="274" width="540" height="524" key="StructurePopup/0.23.1792.1026@0.23.1792.1026" timestamp="1584279445864" />
+    <state x="554" y="292" width="683" height="486" key="find.popup" timestamp="1584345573026">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="554" y="292" width="683" height="486" key="find.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1584345573026" />
+    <state x="561" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1584300107791">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="561" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1584300107791" />
+  </component>
+</project>

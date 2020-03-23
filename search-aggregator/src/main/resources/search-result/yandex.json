@@ -1,0 +1,25 @@
+{
+  "engineName": "Yandex",
+  "urls": [
+    {
+      "title":  "Yandex result",
+      "url": "https://best-title.com"
+    },
+    {
+      "title":  "One more yandex result",
+      "url": "https://one-more-result.uk"
+    },
+    {
+      "title":  "Site #3",
+      "url": "https://wow.net"
+    },
+    {
+      "title":  "Yandex",
+      "url": "https://res.com"
+    },
+    {
+      "title":  "St Petersburg",
+      "url": "https://spb.com"
+    }
+  ]
+}

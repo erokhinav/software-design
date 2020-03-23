@@ -1,0 +1,31 @@
+<configuration>
+    <engines>
+        <engine>
+            <name>Google</name>
+            <hostname>api.google.com</hostname>
+            <parameters>
+                <api-key>sometoken</api-key>
+                <hl>ru</hl>
+            </parameters>
+        </engine>
+
+        <engine>
+            <name>Yandex</name>
+            <hostname>yandex.ru</hostname>
+            <route>search</route>
+            <parameters>
+                <token>sometoken</token>
+                <langugage>ru</langugage>
+            </parameters>
+        </engine>
+
+        <engine>
+            <name>Bing</name>
+            <hostname>api.bing.com</hostname>
+            <parameters>
+                <token>sometoken</token>
+                <langugage>ru</langugage>
+            </parameters>
+        </engine>
+    </engines>
+</configuration>

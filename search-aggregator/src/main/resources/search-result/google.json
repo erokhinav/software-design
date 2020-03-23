@@ -1,0 +1,25 @@
+{
+  "engineName": "Google",
+  "urls": [
+    {
+      "title":  "Google result",
+      "url": "https://best-title.com"
+    },
+    {
+      "title":  "One more google result",
+      "url": "https://one-more-result.uk"
+    },
+    {
+      "title":  "Site #3",
+      "url": "https://wow.net"
+    },
+    {
+      "title":  "This is also result",
+      "url": "https://res.com"
+    },
+    {
+      "title":  "St Petersburg",
+      "url": "https://some.com"
+    }
+  ]
+}
