@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="732fd6dc-3035-4984-94b7-f2e0d099707b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5OXhfRmMvt6inLZVEZYtbHFut" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26106197" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.erokhina.visit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CommandDaoImplTest (1)">
+    <configuration name="CommandDaoImplTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitness" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.visit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina.visit" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.visit.CommandDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitness" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.manager.CommandDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDaoImplTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitness" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina.report" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.report.QueryDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitness" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.manager.QueryDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDaoImplTest.testGetSubscriptionInfo_noReportDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitness" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erokhina.report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erokhina.report" />
+      <option name="MAIN_CLASS_NAME" value="com.erokhina.report.QueryDaoImplTest" />
+      <option name="METHOD_NAME" value="testGetSubscriptionInfo_noReportDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommandDaoImplTest (1)" />
+        <item itemvalue="JUnit.QueryDaoImplTest (1)" />
+        <item itemvalue="JUnit.QueryDaoImplTest" />
+        <item itemvalue="JUnit.CommandDaoImplTest" />
+        <item itemvalue="JUnit.QueryDaoImplTest.testGetSubscriptionInfo_noReportDay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732fd6dc-3035-4984-94b7-f2e0d099707b" name="Default Changelist" comment="" />
+      <created>1586022029154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586022029154</updated>
+      <workItem from="1586022030792" duration="2924000" />
+      <workItem from="1586034475220" duration="36007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#Project_Structure" timestamp="1586144095713">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1586144095713" />
+    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586029818393">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586029818393" />
+    <state x="100" y="100" width="1592" height="920" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586143784078">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586143784078" />
+    <state x="709" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1586131184914">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1586131184914" />
+    <state x="657" y="79" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586109960336">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="657" y="79" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586109960336" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586102861617">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586102861617" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1586143969109">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586143969109" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1586108810678" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1586134378800" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1586143969106">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586143969106" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1586108810675" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1586134378791" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1586143969106">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586143969106" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1586108810675" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1586134378790" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1586143969107">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586143969107" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1586108810676" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1586134378792" />
+    <state x="384" y="141" key="SettingsEditor" timestamp="1586034510502">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586034510502" />
+    <state x="626" y="310" width="540" height="524" key="StructurePopup" timestamp="1586143376530">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="310" width="540" height="524" key="StructurePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1586143376530" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1586034335751">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586034335751" />
+  </component>
+</project>
